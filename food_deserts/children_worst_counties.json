@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Los Angeles County, California",
+    "children_est": 2152172,
+    "children_in_poverty": 295675,
+    "children_no_vehicle": 64038,
+    "poverty_rate": 13.74,
+    "no_vehicle_pct": 8.66
+  },
+  {
+    "name": "Kings County, New York",
+    "children_est": 583835,
+    "children_in_poverty": 110775,
+    "children_no_vehicle": 121453,
+    "poverty_rate": 18.97,
+    "no_vehicle_pct": 55.32
+  },
+  {
+    "name": "Cook County, Illinois",
+    "children_est": 1131452,
+    "children_in_poverty": 151339,
+    "children_no_vehicle": 80492,
+    "poverty_rate": 13.38,
+    "no_vehicle_pct": 17.71
+  },
+  {
+    "name": "New York County, New York",
+    "children_est": 351941,
+    "children_in_poverty": 55589,
+    "children_no_vehicle": 132357,
+    "poverty_rate": 15.79,
+    "no_vehicle_pct": 77.87
+  },
+  {
+    "name": "Harris County, Texas",
+    "children_est": 1028952,
+    "children_in_poverty": 162290,
+    "children_no_vehicle": 24775,
+    "poverty_rate": 15.77,
+    "no_vehicle_pct": 6.65
+  },
+  {
+    "name": "Bronx County, New York",
+    "children_est": 310546,
+    "children_in_poverty": 83584,
+    "children_no_vehicle": 69556,
+    "poverty_rate": 26.91,
+    "no_vehicle_pct": 60.18
+  },
+  {
+    "name": "Maricopa County, Arizona",
+    "children_est": 960971,
+    "children_in_poverty": 110784,
+    "children_no_vehicle": 19178,
+    "poverty_rate": 11.53,
+    "no_vehicle_pct": 5.23
+  },
+  {
+    "name": "Queens County, New York",
+    "children_est": 513485,
+    "children_in_poverty": 60044,
+    "children_no_vehicle": 66025,
+    "poverty_rate": 11.69,
+    "no_vehicle_pct": 36.74
+  },
+  {
+    "name": "Philadelphia County, Pennsylvania",
+    "children_est": 340648,
+    "children_in_poverty": 77398,
+    "children_no_vehicle": 40821,
+    "poverty_rate": 22.72,
+    "no_vehicle_pct": 28.15
+  },
+  {
+    "name": "Miami-Dade County, Florida",
+    "children_est": 582505,
+    "children_in_poverty": 88879,
+    "children_no_vehicle": 20421,
+    "poverty_rate": 15.26,
+    "no_vehicle_pct": 9.74
+  }
+]

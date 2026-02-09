@@ -1,0 +1,22 @@
+{
+  "created": "2025-10-26T11:33:20.843729",
+  "rows": 3222,
+  "columns": [
+    "name",
+    "total_pop",
+    "poverty_pop",
+    "state",
+    "county",
+    "fips",
+    "poverty_rate",
+    "snap_eligible_est",
+    "snap_participants_est",
+    "no_vehicle_total",
+    "no_vehicle_pct"
+  ],
+  "sources": [
+    "Census ACS (poverty, vehicle access)",
+    "Census CBP (grocery stores)",
+    "USDA Food Access Research Atlas (recommended)"
+  ]
+}

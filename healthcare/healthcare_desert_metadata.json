@@ -1,0 +1,13 @@
+{
+  "collection_date": "2026-01-17T22:47:01.139123",
+  "sources": {
+    "county_health_rankings": "Census ACS 2022 (proxy for uninsured rate)",
+    "poverty": "Census ACS 2022",
+    "rural_urban": "Population-based classification"
+  },
+  "record_counts": {
+    "county_health_rankings": 3222,
+    "poverty": 3222,
+    "rural_urban": 3222
+  }
+}

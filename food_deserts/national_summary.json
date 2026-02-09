@@ -1,0 +1,15 @@
+{
+  "total_counties": 3222,
+  "total_population": 326518364,
+  "total_poverty_pop": 41889944,
+  "national_poverty_rate": 12.829276579371813,
+  "total_no_vehicle": 10645846,
+  "national_no_vehicle_pct": 3.2604126363930943,
+  "snap_eligible": 41889944,
+  "snap_enrolled": 28066300,
+  "snap_gap": 13823644,
+  "snap_enrollment_rate": 67.0000895680357,
+  "total_children": 71834052,
+  "children_in_poverty": 9215787,
+  "children_no_vehicle": 2342077
+}

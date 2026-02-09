@@ -1,0 +1,10 @@
+{
+  "filename": "military_firearm_active_duty.csv",
+  "description": "Dataset: Active Duty",
+  "rows": 50,
+  "columns": [
+    "state",
+    "active_duty_personnel"
+  ],
+  "created": "2025-10-25T22:04:12.782440"
+}

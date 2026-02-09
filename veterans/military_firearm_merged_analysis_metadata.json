@@ -1,0 +1,31 @@
+{
+  "filename": "military_firearm_merged_analysis.csv",
+  "description": "Complete merged dataset with all indicators",
+  "rows": 54,
+  "columns": [
+    "NAME",
+    "state",
+    "veteran_population",
+    "total_population",
+    "veteran_percentage",
+    "active_duty_personnel",
+    "ownership_percentage",
+    "ffl_count",
+    "veteran_suicide_rate",
+    "civilian_suicide_rate",
+    "veteran_risk_ratio",
+    "ptsd_prevalence_pct",
+    "va_users_with_ptsd_pct",
+    "spouse_unemployment_rate",
+    "spouse_labor_force_participation",
+    "va_utilization_pct",
+    "installation",
+    "county",
+    "annual_economic_impact_millions",
+    "total_personnel",
+    "direct_jobs",
+    "ffl_per_100k",
+    "active_duty_per_100k"
+  ],
+  "created": "2025-10-25T22:04:16.710770"
+}

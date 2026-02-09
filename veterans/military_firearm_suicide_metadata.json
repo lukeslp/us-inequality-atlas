@@ -1,0 +1,12 @@
+{
+  "filename": "military_firearm_suicide.csv",
+  "description": "Dataset: Suicide",
+  "rows": 50,
+  "columns": [
+    "state",
+    "veteran_suicide_rate",
+    "civilian_suicide_rate",
+    "veteran_risk_ratio"
+  ],
+  "created": "2025-10-25T22:04:12.783880"
+}

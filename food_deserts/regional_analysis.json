@@ -1,0 +1,46 @@
+[
+  {
+    "region": "Northeast",
+    "counties": 218,
+    "total_pop": 55802253,
+    "avg_poverty_rate": 11.39243119266055,
+    "avg_no_vehicle_pct": 8.96651376146789,
+    "snap_eligible": 6471758,
+    "snap_enrolled": 4336094,
+    "snap_enrollment_rate": 67.00024939127823,
+    "avg_risk_score": 20.35894495412844
+  },
+  {
+    "region": "South",
+    "counties": 1422,
+    "total_pop": 123382199,
+    "avg_poverty_rate": 16.804416315049224,
+    "avg_no_vehicle_pct": 6.115661040787622,
+    "snap_eligible": 16969541,
+    "snap_enrolled": 11369592,
+    "snap_enrollment_rate": 66.99999723033169,
+    "avg_risk_score": 22.92007735583685
+  },
+  {
+    "region": "Midwest",
+    "counties": 1055,
+    "total_pop": 67139928,
+    "avg_poverty_rate": 12.146568720379149,
+    "avg_no_vehicle_pct": 5.34921327014218,
+    "snap_eligible": 8050622,
+    "snap_enrolled": 5393929,
+    "snap_enrollment_rate": 67.00015228636993,
+    "avg_risk_score": 17.495781990521326
+  },
+  {
+    "region": "West",
+    "counties": 449,
+    "total_pop": 76951068,
+    "avg_poverty_rate": 13.20632516703786,
+    "avg_no_vehicle_pct": 5.883095768374165,
+    "snap_eligible": 9029663,
+    "snap_enrolled": 6049885,
+    "snap_enrollment_rate": 67.00011949504649,
+    "avg_risk_score": 19.08942093541203
+  }
+]

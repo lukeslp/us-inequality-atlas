@@ -1,0 +1,11 @@
+{
+  "filename": "military_firearm_ptsd.csv",
+  "description": "Dataset: Ptsd",
+  "rows": 25,
+  "columns": [
+    "state",
+    "ptsd_prevalence_pct",
+    "va_users_with_ptsd_pct"
+  ],
+  "created": "2025-10-25T22:04:12.784311"
+}

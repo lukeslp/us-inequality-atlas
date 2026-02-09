@@ -1,0 +1,14 @@
+{
+  "filename": "military_firearm_economic_impact.csv",
+  "description": "Dataset: Economic Impact",
+  "rows": 12,
+  "columns": [
+    "installation",
+    "state",
+    "county",
+    "annual_economic_impact_millions",
+    "total_personnel",
+    "direct_jobs"
+  ],
+  "created": "2025-10-25T22:04:12.785616"
+}

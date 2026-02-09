@@ -1,0 +1,470 @@
+[
+  {
+    "state": "01",
+    "children_est": 1075896,
+    "children_in_poverty": 169163,
+    "children_no_vehicle": 23680,
+    "total_pop": 4890427,
+    "state_name": "Alabama",
+    "children_poverty_pct": 15.72
+  },
+  {
+    "state": "02",
+    "children_est": 157805,
+    "children_in_poverty": 16551,
+    "children_no_vehicle": 5312,
+    "total_pop": 717293,
+    "state_name": "Alaska",
+    "children_poverty_pct": 10.49
+  },
+  {
+    "state": "04",
+    "children_est": 1543913,
+    "children_in_poverty": 201713,
+    "children_no_vehicle": 33064,
+    "total_pop": 7017776,
+    "state_name": "Arizona",
+    "children_poverty_pct": 13.07
+  },
+  {
+    "state": "05",
+    "children_est": 644903,
+    "children_in_poverty": 104664,
+    "children_no_vehicle": 15505,
+    "total_pop": 2931377,
+    "state_name": "Arkansas",
+    "children_poverty_pct": 16.23
+  },
+  {
+    "state": "06",
+    "children_est": 8501590,
+    "children_in_poverty": 1030757,
+    "children_no_vehicle": 202955,
+    "total_pop": 38643585,
+    "state_name": "California",
+    "children_poverty_pct": 12.12
+  },
+  {
+    "state": "08",
+    "children_est": 1243724,
+    "children_in_poverty": 118827,
+    "children_no_vehicle": 25019,
+    "total_pop": 5653289,
+    "state_name": "Colorado",
+    "children_poverty_pct": 9.55
+  },
+  {
+    "state": "09",
+    "children_est": 771665,
+    "children_in_poverty": 78251,
+    "children_no_vehicle": 26507,
+    "total_pop": 3507563,
+    "state_name": "Connecticut",
+    "children_poverty_pct": 10.14
+  },
+  {
+    "state": "10",
+    "children_est": 213196,
+    "children_in_poverty": 23714,
+    "children_no_vehicle": 5212,
+    "total_pop": 969075,
+    "state_name": "Delaware",
+    "children_poverty_pct": 11.12
+  },
+  {
+    "state": "11",
+    "children_est": 142820,
+    "children_in_poverty": 21569,
+    "children_no_vehicle": 24808,
+    "total_pop": 649184,
+    "state_name": "District of Columbia",
+    "children_poverty_pct": 15.1
+  },
+  {
+    "state": "12",
+    "children_est": 4657778,
+    "children_in_poverty": 599634,
+    "children_no_vehicle": 109497,
+    "total_pop": 21171700,
+    "state_name": "Florida",
+    "children_poverty_pct": 12.87
+  },
+  {
+    "state": "13",
+    "children_est": 2301734,
+    "children_in_poverty": 311428,
+    "children_no_vehicle": 52102,
+    "total_pop": 10462430,
+    "state_name": "Georgia",
+    "children_poverty_pct": 13.53
+  },
+  {
+    "state": "15",
+    "children_est": 311220,
+    "children_in_poverty": 29908,
+    "children_no_vehicle": 8611,
+    "total_pop": 1414636,
+    "state_name": "Hawaii",
+    "children_poverty_pct": 9.61
+  },
+  {
+    "state": "16",
+    "children_est": 397155,
+    "children_in_poverty": 43733,
+    "children_no_vehicle": 5573,
+    "total_pop": 1805238,
+    "state_name": "Idaho",
+    "children_poverty_pct": 11.01
+  },
+  {
+    "state": "17",
+    "children_est": 2745309,
+    "children_in_poverty": 322937,
+    "children_no_vehicle": 118214,
+    "total_pop": 12478664,
+    "state_name": "Illinois",
+    "children_poverty_pct": 11.76
+  },
+  {
+    "state": "18",
+    "children_est": 1449612,
+    "children_in_poverty": 178355,
+    "children_no_vehicle": 35932,
+    "total_pop": 6589135,
+    "state_name": "Indiana",
+    "children_poverty_pct": 12.3
+  },
+  {
+    "state": "19",
+    "children_est": 679573,
+    "children_in_poverty": 75489,
+    "children_no_vehicle": 15921,
+    "total_pop": 3088999,
+    "state_name": "Iowa",
+    "children_poverty_pct": 11.11
+  },
+  {
+    "state": "20",
+    "children_est": 626637,
+    "children_in_poverty": 72567,
+    "children_no_vehicle": 12983,
+    "total_pop": 2848334,
+    "state_name": "Kansas",
+    "children_poverty_pct": 11.58
+  },
+  {
+    "state": "21",
+    "children_est": 962009,
+    "children_in_poverty": 155055,
+    "children_no_vehicle": 26222,
+    "total_pop": 4372749,
+    "state_name": "Kentucky",
+    "children_poverty_pct": 16.12
+  },
+  {
+    "state": "22",
+    "children_est": 993034,
+    "children_in_poverty": 185247,
+    "children_no_vehicle": 32137,
+    "total_pop": 4513793,
+    "state_name": "Louisiana",
+    "children_poverty_pct": 18.65
+  },
+  {
+    "state": "23",
+    "children_est": 292480,
+    "children_in_poverty": 32007,
+    "children_no_vehicle": 8771,
+    "total_pop": 1329454,
+    "state_name": "Maine",
+    "children_poverty_pct": 10.94
+  },
+  {
+    "state": "24",
+    "children_est": 1327550,
+    "children_in_poverty": 122882,
+    "children_no_vehicle": 44220,
+    "total_pop": 6034320,
+    "state_name": "Maryland",
+    "children_poverty_pct": 9.26
+  },
+  {
+    "state": "25",
+    "children_est": 1489905,
+    "children_in_poverty": 147918,
+    "children_no_vehicle": 71956,
+    "total_pop": 6772292,
+    "state_name": "Massachusetts",
+    "children_poverty_pct": 9.93
+  },
+  {
+    "state": "26",
+    "children_est": 2165956,
+    "children_in_poverty": 284499,
+    "children_no_vehicle": 63324,
+    "total_pop": 9845242,
+    "state_name": "Michigan",
+    "children_poverty_pct": 13.14
+  },
+  {
+    "state": "27",
+    "children_est": 1226291,
+    "children_in_poverty": 113585,
+    "children_no_vehicle": 32664,
+    "total_pop": 5574039,
+    "state_name": "Minnesota",
+    "children_poverty_pct": 9.26
+  },
+  {
+    "state": "28",
+    "children_est": 628938,
+    "children_in_poverty": 120736,
+    "children_no_vehicle": 15053,
+    "total_pop": 2858819,
+    "state_name": "Mississippi",
+    "children_poverty_pct": 19.2
+  },
+  {
+    "state": "29",
+    "children_est": 1315477,
+    "children_in_poverty": 168647,
+    "children_no_vehicle": 35629,
+    "total_pop": 5979440,
+    "state_name": "Missouri",
+    "children_poverty_pct": 12.82
+  },
+  {
+    "state": "30",
+    "children_est": 234551,
+    "children_in_poverty": 29110,
+    "children_no_vehicle": 4537,
+    "total_pop": 1066145,
+    "state_name": "Montana",
+    "children_poverty_pct": 12.41
+  },
+  {
+    "state": "31",
+    "children_est": 419891,
+    "children_in_poverty": 43665,
+    "children_no_vehicle": 8630,
+    "total_pop": 1908613,
+    "state_name": "Nebraska",
+    "children_poverty_pct": 10.4
+  },
+  {
+    "state": "32",
+    "children_est": 674022,
+    "children_in_poverty": 85680,
+    "children_no_vehicle": 18133,
+    "total_pop": 3063729,
+    "state_name": "Nevada",
+    "children_poverty_pct": 12.71
+  },
+  {
+    "state": "33",
+    "children_est": 294815,
+    "children_in_poverty": 21596,
+    "children_no_vehicle": 5559,
+    "total_pop": 1340074,
+    "state_name": "New Hampshire",
+    "children_poverty_pct": 7.33
+  },
+  {
+    "state": "34",
+    "children_est": 1997846,
+    "children_in_poverty": 193421,
+    "children_no_vehicle": 85319,
+    "total_pop": 9081112,
+    "state_name": "New Jersey",
+    "children_poverty_pct": 9.68
+  },
+  {
+    "state": "35",
+    "children_est": 455613,
+    "children_in_poverty": 83304,
+    "children_no_vehicle": 10301,
+    "total_pop": 2070966,
+    "state_name": "New Mexico",
+    "children_poverty_pct": 18.28
+  },
+  {
+    "state": "36",
+    "children_est": 4293726,
+    "children_in_poverty": 584248,
+    "children_no_vehicle": 484586,
+    "total_pop": 19516967,
+    "state_name": "New York",
+    "children_poverty_pct": 13.61
+  },
+  {
+    "state": "37",
+    "children_est": 2240953,
+    "children_in_poverty": 298630,
+    "children_no_vehicle": 48422,
+    "total_pop": 10186155,
+    "state_name": "North Carolina",
+    "children_poverty_pct": 13.33
+  },
+  {
+    "state": "38",
+    "children_est": 165169,
+    "children_in_poverty": 17774,
+    "children_no_vehicle": 3685,
+    "total_pop": 750776,
+    "state_name": "North Dakota",
+    "children_poverty_pct": 10.76
+  },
+  {
+    "state": "39",
+    "children_est": 2523981,
+    "children_in_poverty": 335831,
+    "children_no_vehicle": 78346,
+    "total_pop": 11472644,
+    "state_name": "Ohio",
+    "children_poverty_pct": 13.31
+  },
+  {
+    "state": "40",
+    "children_est": 846497,
+    "children_in_poverty": 128916,
+    "children_no_vehicle": 18116,
+    "total_pop": 3847702,
+    "state_name": "Oklahoma",
+    "children_poverty_pct": 15.23
+  },
+  {
+    "state": "41",
+    "children_est": 912790,
+    "children_in_poverty": 108715,
+    "children_no_vehicle": 26037,
+    "total_pop": 4149034,
+    "state_name": "Oregon",
+    "children_poverty_pct": 11.91
+  },
+  {
+    "state": "42",
+    "children_est": 2768065,
+    "children_in_poverty": 326140,
+    "children_no_vehicle": 120676,
+    "total_pop": 12582125,
+    "state_name": "Pennsylvania",
+    "children_poverty_pct": 11.78
+  },
+  {
+    "state": "44",
+    "children_est": 231393,
+    "children_in_poverty": 25968,
+    "children_no_vehicle": 8598,
+    "total_pop": 1051789,
+    "state_name": "Rhode Island",
+    "children_poverty_pct": 11.22
+  },
+  {
+    "state": "45",
+    "children_est": 1100517,
+    "children_in_poverty": 157928,
+    "children_no_vehicle": 25447,
+    "total_pop": 5002332,
+    "state_name": "South Carolina",
+    "children_poverty_pct": 14.35
+  },
+  {
+    "state": "46",
+    "children_est": 189391,
+    "children_in_poverty": 23218,
+    "children_no_vehicle": 3861,
+    "total_pop": 860878,
+    "state_name": "South Dakota",
+    "children_poverty_pct": 12.26
+  },
+  {
+    "state": "47",
+    "children_est": 1487104,
+    "children_in_poverty": 207586,
+    "children_no_vehicle": 31750,
+    "total_pop": 6759549,
+    "state_name": "Tennessee",
+    "children_poverty_pct": 13.96
+  },
+  {
+    "state": "48",
+    "children_est": 6295502,
+    "children_in_poverty": 877870,
+    "children_no_vehicle": 121240,
+    "total_pop": 28615931,
+    "state_name": "Texas",
+    "children_poverty_pct": 13.94
+  },
+  {
+    "state": "49",
+    "children_est": 710961,
+    "children_in_poverty": 60542,
+    "children_no_vehicle": 9160,
+    "total_pop": 3231630,
+    "state_name": "Utah",
+    "children_poverty_pct": 8.52
+  },
+  {
+    "state": "50",
+    "children_est": 136595,
+    "children_in_poverty": 14244,
+    "children_no_vehicle": 3734,
+    "total_pop": 620877,
+    "state_name": "Vermont",
+    "children_poverty_pct": 10.43
+  },
+  {
+    "state": "51",
+    "children_est": 1843546,
+    "children_in_poverty": 184067,
+    "children_no_vehicle": 43902,
+    "total_pop": 8379773,
+    "state_name": "Virginia",
+    "children_poverty_pct": 9.98
+  },
+  {
+    "state": "53",
+    "children_est": 1661803,
+    "children_in_poverty": 164459,
+    "children_no_vehicle": 45186,
+    "total_pop": 7553642,
+    "state_name": "Washington",
+    "children_poverty_pct": 9.9
+  },
+  {
+    "state": "54",
+    "children_est": 382115,
+    "children_in_poverty": 64210,
+    "children_no_vehicle": 12959,
+    "total_pop": 1736883,
+    "state_name": "West Virginia",
+    "children_poverty_pct": 16.8
+  },
+  {
+    "state": "55",
+    "children_est": 1263492,
+    "children_in_poverty": 134564,
+    "children_no_vehicle": 33444,
+    "total_pop": 5743164,
+    "state_name": "Wisconsin",
+    "children_poverty_pct": 10.65
+  },
+  {
+    "state": "56",
+    "children_est": 124104,
+    "children_in_poverty": 13228,
+    "children_no_vehicle": 1960,
+    "total_pop": 564105,
+    "state_name": "Wyoming",
+    "children_poverty_pct": 10.66
+  },
+  {
+    "state": "72",
+    "children_est": 713440,
+    "children_in_poverty": 301037,
+    "children_no_vehicle": 37618,
+    "total_pop": 3242916,
+    "state_name": NaN,
+    "children_poverty_pct": 42.2
+  }
+]

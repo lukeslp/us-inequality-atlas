@@ -1,0 +1,10 @@
+{
+  "filename": "military_firearm_va_healthcare.csv",
+  "description": "Dataset: Va Healthcare",
+  "rows": 50,
+  "columns": [
+    "state",
+    "va_utilization_pct"
+  ],
+  "created": "2025-10-25T22:04:12.785193"
+}

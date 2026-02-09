@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Kusilvak Census Area, Alaska",
+    "total_pop": 8278,
+    "poverty_rate": 34.26,
+    "no_vehicle_pct": 85.94,
+    "snap_eligible_est": 2836,
+    "snap_participants_est": 1900,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 120.19999999999999
+  },
+  {
+    "name": "New York County, New York",
+    "total_pop": 1599733,
+    "poverty_rate": 15.79,
+    "no_vehicle_pct": 77.87,
+    "snap_eligible_est": 252677,
+    "snap_participants_est": 169294,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 93.66
+  },
+  {
+    "name": "Bethel Census Area, Alaska",
+    "total_pop": 18158,
+    "poverty_rate": 25.26,
+    "no_vehicle_pct": 61.86,
+    "snap_eligible_est": 4586,
+    "snap_participants_est": 3073,
+    "snap_enrollment_rate": 67.01,
+    "combined_risk": 87.12
+  },
+  {
+    "name": "Bronx County, New York",
+    "total_pop": 1411574,
+    "poverty_rate": 26.91,
+    "no_vehicle_pct": 60.18,
+    "snap_eligible_est": 379925,
+    "snap_participants_est": 254550,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 87.09
+  },
+  {
+    "name": "Northwest Arctic Borough, Alaska",
+    "total_pop": 7604,
+    "poverty_rate": 18.48,
+    "no_vehicle_pct": 65.26,
+    "snap_eligible_est": 1405,
+    "snap_participants_est": 941,
+    "snap_enrollment_rate": 66.98,
+    "combined_risk": 83.74000000000001
+  },
+  {
+    "name": "Nome Census Area, Alaska",
+    "total_pop": 9654,
+    "poverty_rate": 21.14,
+    "no_vehicle_pct": 57.18,
+    "snap_eligible_est": 2041,
+    "snap_participants_est": 1367,
+    "snap_enrollment_rate": 66.98,
+    "combined_risk": 78.32
+  },
+  {
+    "name": "Oglala Lakota County, South Dakota",
+    "total_pop": 13529,
+    "poverty_rate": 55.78,
+    "no_vehicle_pct": 22.06,
+    "snap_eligible_est": 7546,
+    "snap_participants_est": 5056,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 77.84
+  },
+  {
+    "name": "Gu\u00e1nica Municipio, Puerto Rico",
+    "total_pop": 13527,
+    "poverty_rate": 66.32,
+    "no_vehicle_pct": 10.0,
+    "snap_eligible_est": 8971,
+    "snap_participants_est": 6011,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 76.32
+  },
+  {
+    "name": "Adjuntas Municipio, Puerto Rico",
+    "total_pop": 17929,
+    "poverty_rate": 63.38,
+    "no_vehicle_pct": 11.55,
+    "snap_eligible_est": 11363,
+    "snap_participants_est": 7613,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 74.93
+  },
+  {
+    "name": "Kings County, New York",
+    "total_pop": 2653797,
+    "poverty_rate": 18.97,
+    "no_vehicle_pct": 55.32,
+    "snap_eligible_est": 503524,
+    "snap_participants_est": 337361,
+    "snap_enrollment_rate": 67.0,
+    "combined_risk": 74.28999999999999
+  }
+]

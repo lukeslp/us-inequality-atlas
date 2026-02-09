@@ -1,0 +1,18 @@
+{
+  "metro": {
+    "counties": 194,
+    "population": 85256812,
+    "avg_poverty_rate": 11.794484536082475,
+    "avg_no_vehicle_pct": 8.882474226804124,
+    "snap_enrollment_rate": 67.00009628043247,
+    "no_vehicle_total": 4313413
+  },
+  "rural": {
+    "counties": 583,
+    "population": 14231258,
+    "avg_poverty_rate": 11.888576329331045,
+    "avg_no_vehicle_pct": 5.357855917667239,
+    "snap_enrollment_rate": 67.00038891259284,
+    "no_vehicle_total": 300904
+  }
+}

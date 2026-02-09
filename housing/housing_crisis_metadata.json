@@ -1,0 +1,15 @@
+{
+  "collection_date": "2026-01-17T22:47:01.594343",
+  "sources": {
+    "rent_burden": "Census ACS 2022, Table B25070",
+    "median_rents": "Census ACS 2022, Table B25064",
+    "median_income": "Census ACS 2022, Table B19013",
+    "housing_units": "Census ACS 2022, Table B25003"
+  },
+  "record_counts": {
+    "rent_burden": 3222,
+    "median_rents": 3222,
+    "median_income": 3222,
+    "housing_units": 3222
+  }
+}

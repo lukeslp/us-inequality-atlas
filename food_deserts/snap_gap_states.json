@@ -1,0 +1,162 @@
+[
+  {
+    "state_name": "Alabama",
+    "snap_eligible_est": 768897,
+    "snap_participants_est": 515167,
+    "snap_gap": 253730,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Alaska",
+    "snap_eligible_est": 75227,
+    "snap_participants_est": 50403,
+    "snap_gap": 24824,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Arizona",
+    "snap_eligible_est": 916876,
+    "snap_participants_est": 614308,
+    "snap_gap": 302568,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Arkansas",
+    "snap_eligible_est": 475729,
+    "snap_participants_est": 318738,
+    "snap_gap": 156991,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "California",
+    "snap_eligible_est": 4685272,
+    "snap_participants_est": 3139134,
+    "snap_gap": 1546138,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Colorado",
+    "snap_eligible_est": 540105,
+    "snap_participants_est": 361870,
+    "snap_gap": 178235,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Connecticut",
+    "snap_eligible_est": 355692,
+    "snap_participants_est": 238315,
+    "snap_gap": 117377,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Delaware",
+    "snap_eligible_est": 107790,
+    "snap_participants_est": 72220,
+    "snap_gap": 35570,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "District of Columbia",
+    "snap_eligible_est": 98039,
+    "snap_participants_est": 65686,
+    "snap_gap": 32353,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Florida",
+    "snap_eligible_est": 2725633,
+    "snap_participants_est": 1826177,
+    "snap_gap": 899456,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Georgia",
+    "snap_eligible_est": 1415573,
+    "snap_participants_est": 948429,
+    "snap_gap": 467144,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Hawaii",
+    "snap_eligible_est": 135941,
+    "snap_participants_est": 91081,
+    "snap_gap": 44860,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Idaho",
+    "snap_eligible_est": 198788,
+    "snap_participants_est": 133186,
+    "snap_gap": 65602,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Illinois",
+    "snap_eligible_est": 1467893,
+    "snap_participants_est": 983489,
+    "snap_gap": 484404,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Indiana",
+    "snap_eligible_est": 810702,
+    "snap_participants_est": 543172,
+    "snap_gap": 267530,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Iowa",
+    "snap_eligible_est": 343141,
+    "snap_participants_est": 229905,
+    "snap_gap": 113236,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Kansas",
+    "snap_eligible_est": 329870,
+    "snap_participants_est": 221013,
+    "snap_gap": 108857,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Kentucky",
+    "snap_eligible_est": 704758,
+    "snap_participants_est": 472189,
+    "snap_gap": 232569,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Louisiana",
+    "snap_eligible_est": 842038,
+    "snap_participants_est": 564167,
+    "snap_gap": 277871,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  },
+  {
+    "state_name": "Maine",
+    "snap_eligible_est": 145491,
+    "snap_participants_est": 97480,
+    "snap_gap": 48011,
+    "snap_gap_pct": 33.0,
+    "snap_enrollment_rate": 67.0
+  }
+]

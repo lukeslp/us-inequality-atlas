@@ -1,0 +1,11 @@
+{
+  "filename": "military_firearm_spouse_employment.csv",
+  "description": "Dataset: Spouse Employment",
+  "rows": 15,
+  "columns": [
+    "state",
+    "spouse_unemployment_rate",
+    "spouse_labor_force_participation"
+  ],
+  "created": "2025-10-25T22:04:12.784748"
+}

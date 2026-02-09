@@ -1,0 +1,8 @@
+{
+    "dataset_name": "CMS Hospital General Information",
+    "source": "Centers for Medicare & Medicaid Services",
+    "source_url": "https://data.cms.gov/provider-data/dataset/xubh-q36u",
+    "last_updated": "2026-01-17",
+    "record_count": 5421,
+    "notes": "A list of all hospitals registered with Medicare including addresses, phone numbers, hospital type, and overall hospital rating."
+}
