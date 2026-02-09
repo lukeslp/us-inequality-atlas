@@ -21,10 +21,10 @@ Part of the [Data Trove](https://dr.eamer.dev/datavis/data_trove/) collection.
 | `food_desert_merged.csv` | 3,142 counties | Census ACS 2021 + USDA Food Access Atlas 2019 |
 | `state_rankings.json` | 50 states | Aggregated state-level rankings |
 | `worst_counties.json` | Top worst | Counties with highest food desert scores |
-| `children_impact.json` | — | Child food insecurity indicators |
+| `children_impact.json` | -- | Child food insecurity indicators |
 | `snap_gap_states.json` | 50 states | SNAP coverage gaps |
-| `regional_analysis.json` | — | Regional breakdowns |
-| `national_summary.json` | — | National aggregate stats |
+| `regional_analysis.json` | -- | Regional breakdowns |
+| `national_summary.json` | -- | National aggregate stats |
 
 ### Healthcare (`healthcare/`)
 
@@ -44,12 +44,12 @@ Part of the [Data Trove](https://dr.eamer.dev/datavis/data_trove/) collection.
 | File | Records | Source |
 |------|---------|--------|
 | `military_firearm_merged_analysis.csv` | 54 states/territories | Census ACS + CDC + VA |
-| `military_firearm_veterans.csv` | — | Veteran population by state |
-| `military_firearm_ptsd.csv` | — | PTSD and mental health indicators |
-| `military_firearm_suicide.csv` | — | Veteran suicide rates |
-| `military_firearm_va_healthcare.csv` | — | VA healthcare enrollment |
-| `military_firearm_firearms.csv` | — | Firearm ownership rates |
-| + 4 more CSVs with metadata | — | Active duty, FFL, economic impact, spouse employment |
+| `military_firearm_veterans.csv` | -- | Veteran population by state |
+| `military_firearm_ptsd.csv` | -- | PTSD and mental health indicators |
+| `military_firearm_suicide.csv` | -- | Veteran suicide rates |
+| `military_firearm_va_healthcare.csv` | -- | VA healthcare enrollment |
+| `military_firearm_firearms.csv` | -- | Firearm ownership rates |
+| + 4 more CSVs with metadata | -- | Active duty, FFL, economic impact, spouse employment |
 
 ### CMS Hospitals (`cms/`)
 
@@ -127,14 +127,18 @@ const data = await d3.csv("healthcare/healthcare_desert_merged.csv");
 
 ## Related
 
-- [Data Trove](https://dr.eamer.dev/datavis/data_trove/) — full dataset catalog
-- [lukesteuber.com](https://lukesteuber.com) — portfolio
+- [Data Trove](https://dr.eamer.dev/datavis/data_trove/) -- full dataset catalog
+- [lukesteuber.com](https://lukesteuber.com) -- portfolio
 - [HuggingFace Dataset](https://huggingface.co/datasets/lukeslp/us-inequality-atlas)
 
 ---
+
+## Author
+
+[Luke Steuber](https://lukesteuber.com) -- [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com) on Bluesky
 
 ## License
 
 MIT. See [LICENSE](LICENSE).
 
-Source data is from US federal agencies (public domain). Compiled and packaged by [Luke Steuber](https://lukesteuber.com).
+Source data is from US federal agencies (public domain).
