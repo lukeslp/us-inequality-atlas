@@ -11,6 +11,10 @@ tags:
   - healthcare
   - housing
   - veterans
+  - disability
+  - education
+  - economics
+  - gini-coefficient
   - census
   - fips
   - county-level
@@ -22,7 +26,7 @@ size_categories:
 
 # US Inequality Atlas
 
-County-level inequality data for all ~3,200 US counties, keyed on 5-digit FIPS codes. Covers food deserts, healthcare access, housing affordability, hospital infrastructure, and veteran demographics.
+County-level inequality data for all ~3,200 US counties, keyed on 5-digit FIPS codes. Covers food deserts, healthcare access, housing affordability, hospital infrastructure, veteran demographics, disability prevalence, income inequality (Gini coefficient), education attainment, unemployment, and poverty depth.
 
 - **Repository:** [github.com/lukeslp/us-inequality-atlas](https://github.com/lukeslp/us-inequality-atlas)
 - **Part of:** [Data Trove](https://dr.eamer.dev/datavis/data_trove/)
@@ -37,6 +41,11 @@ County-level inequality data for all ~3,200 US counties, keyed on 5-digit FIPS c
 | Housing | `housing/housing_crisis_merged.csv` | 3,222 | Census ACS 2022 |
 | Hospitals | `cms/cms_hospitals_20260121.csv` | 5,421 | CMS Hospital Compare |
 | Veterans | `veterans/military_firearm_merged_analysis.csv` | 54 | Census + CDC + VA |
+| Economic (Gini) | `economic/gini_by_county.csv` | 3,222 | Census ACS 2022 (B19083) |
+| Economic (Unemployment) | `economic/unemployment_by_county.csv` | 3,222 | Census ACS 2022 (B23025) |
+| Economic (Poverty Depth) | `economic/poverty_depth_by_county.csv` | 3,222 | Census ACS 2022 (C17002) |
+| Education | `education/education_by_county.csv` | 3,222 | Census ACS 2022 (B15003) |
+| Disability | `disability/census_disability_by_county_2022.csv` | 3,222 | Census ACS 2022 (S1810) |
 
 ## FIPS Code Convention
 

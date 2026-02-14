@@ -78,6 +78,26 @@ Part of the [Data Trove](https://dr.eamer.dev/datavis/data_trove/) collection.
 | `military_firearm_firearms.csv` | -- | Firearm ownership rates |
 | + 4 more CSVs with metadata | -- | Active duty, FFL, economic impact, spouse employment |
 
+### Economic (`economic/`)
+
+| File | Records | Source |
+|------|---------|--------|
+| `gini_by_county.csv` | 3,222 counties | Census ACS 2022 (B19083) |
+| `unemployment_by_county.csv` | 3,222 counties | Census ACS 2022 (B23025) |
+| `poverty_depth_by_county.csv` | 3,222 counties | Census ACS 2022 (C17002) |
+
+### Education (`education/`)
+
+| File | Records | Source |
+|------|---------|--------|
+| `education_by_county.csv` | 3,222 counties | Census ACS 2022 (B15003) |
+
+### Disability (`disability/`)
+
+| File | Records | Source |
+|------|---------|--------|
+| `census_disability_by_county_2022.csv` | 3,222 counties | Census ACS 2022 (S1810) |
+
 ### CMS Hospitals (`cms/`)
 
 | File | Records | Source |
