@@ -18,7 +18,7 @@ Part of the [Data Trove](https://dr.eamer.dev/datavis/data_trove/) collection.
 
 | File | Records | Source |
 |------|---------|--------|
-| `food_desert_merged.csv` | 3,142 counties | Census ACS 2021 + USDA Food Access Atlas 2019 |
+| `food_desert_merged.csv` | 3,222 counties | Census ACS 2021 + USDA Food Access Atlas 2019 |
 | `state_rankings.json` | 50 states | Aggregated state-level rankings |
 | `worst_counties.json` | Top worst | Counties with highest food desert scores |
 | `children_impact.json` | -- | Child food insecurity indicators |
@@ -101,7 +101,7 @@ df = pd.read_csv("food_deserts/food_desert_merged.csv", dtype={"fips": str})
 
 # Worst counties for food access
 worst = df.nlargest(20, "poverty_rate")
-print(worst[["fips", "county_name", "poverty_rate", "low_access_pop"]])
+print(worst[["fips", "name", "poverty_rate", "no_vehicle_pct"]])
 ```
 
 ### D3.js
@@ -135,7 +135,10 @@ const data = await d3.csv("healthcare/healthcare_desert_merged.csv");
 
 ## Author
 
-[Luke Steuber](https://lukesteuber.com) -- [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com) on Bluesky
+**Luke Steuber**
+- [lukesteuber.com](https://lukesteuber.com)
+- [dr.eamer.dev](https://dr.eamer.dev)
+- [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com) on Bluesky
 
 ## License
 
