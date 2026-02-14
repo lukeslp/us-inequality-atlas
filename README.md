@@ -1,3 +1,25 @@
+---
+license: mit
+task_categories:
+  - tabular-classification
+  - feature-extraction
+language:
+  - en
+tags:
+  - inequality
+  - food-deserts
+  - healthcare
+  - housing
+  - veterans
+  - census
+  - fips
+  - county-level
+  - united-states
+pretty_name: US Inequality Atlas
+size_categories:
+  - 1K<n<10K
+---
+
 # US Inequality Atlas
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
