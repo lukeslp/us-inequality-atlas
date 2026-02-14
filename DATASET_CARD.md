@@ -32,7 +32,7 @@ County-level inequality data for all ~3,200 US counties, keyed on 5-digit FIPS c
 
 | Category | Key File | Records | Source |
 |----------|----------|---------|--------|
-| Food Deserts | `food_deserts/food_desert_merged.csv` | 3,142 | Census ACS + USDA |
+| Food Deserts | `food_deserts/food_desert_merged.csv` | 3,222 | Census ACS + USDA |
 | Healthcare | `healthcare/healthcare_desert_merged.csv` | 3,222 | Census ACS + HRSA |
 | Housing | `housing/housing_crisis_merged.csv` | 3,222 | Census ACS 2022 |
 | Hospitals | `cms/cms_hospitals_20260121.csv` | 5,421 | CMS Hospital Compare |
