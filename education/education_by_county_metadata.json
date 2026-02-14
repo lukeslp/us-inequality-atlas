@@ -1,0 +1,21 @@
+{
+  "source": "U.S. Census Bureau, American Community Survey 5-Year Estimates (2022)",
+  "table": "B15003",
+  "variables": [
+    "B15003_001E",
+    "B15003_017E",
+    "B15003_018E",
+    "B15003_019E",
+    "B15003_020E",
+    "B15003_021E",
+    "B15003_022E",
+    "B15003_023E",
+    "B15003_024E",
+    "B15003_025E"
+  ],
+  "description": "Educational attainment for population 25+ by county. pct_hs_or_higher includes HS diploma, GED, some college, associate's, bachelor's, master's, professional, and doctorate degrees. pct_bachelors_or_higher includes bachelor's, master's, professional, and doctorate degrees.",
+  "geography": "County",
+  "record_count": 3222,
+  "collection_date": "2026-02-14",
+  "api_url": "https://api.census.gov/data/2022/acs/acs5?get=NAME,B15003_001E,B15003_017E,B15003_018E,B15003_019E,B15003_020E,B15003_021E,B15003_022E,B15003_023E,B15003_024E,B15003_025E&for=county:*&in=state:*"
+}

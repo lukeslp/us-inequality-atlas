@@ -1,0 +1,10 @@
+{
+  "source": "U.S. Census Bureau, American Community Survey 5-Year Estimates (2022)",
+  "table": "B19083",
+  "variable": "B19083_001E",
+  "description": "Gini Index of Income Inequality by county. Values range from 0 (perfect equality) to 1 (perfect inequality).",
+  "geography": "County",
+  "record_count": 3222,
+  "collection_date": "2026-02-14",
+  "api_url": "https://api.census.gov/data/2022/acs/acs5?get=NAME,B19083_001E&for=county:*&in=state:*"
+}

@@ -1,0 +1,14 @@
+{
+  "source": "U.S. Census Bureau, American Community Survey 5-Year Estimates (2022)",
+  "table": "B23025",
+  "variables": [
+    "B23025_001E",
+    "B23025_002E",
+    "B23025_005E"
+  ],
+  "description": "Employment status for population 16+ by county. Labor force participation rate = labor force / total 16+. Unemployment rate = unemployed / labor force.",
+  "geography": "County",
+  "record_count": 3222,
+  "collection_date": "2026-02-14",
+  "api_url": "https://api.census.gov/data/2022/acs/acs5?get=NAME,B23025_001E,B23025_002E,B23025_005E&for=county:*&in=state:*"
+}
