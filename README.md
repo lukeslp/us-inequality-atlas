@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Data Sources](https://img.shields.io/badge/Sources-Census%20ACS%20%7C%20CMS%20%7C%20USDA%20%7C%20HRSA-green)](https://data.census.gov)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow)](https://huggingface.co/datasets/lukeslp/us-inequality-atlas)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF)](https://www.kaggle.com/datasets/lucassteuber/us-inequality-atlas)
 
 County-level inequality data for all ~3,200 US counties, keyed on 5-digit FIPS codes. Covers food deserts, healthcare access, housing affordability, hospital infrastructure, and veteran demographics.
 
@@ -130,6 +131,7 @@ const data = await d3.csv("healthcare/healthcare_desert_merged.csv");
 - [Data Trove](https://dr.eamer.dev/datavis/data_trove/) -- full dataset catalog
 - [lukesteuber.com](https://lukesteuber.com) -- portfolio
 - [HuggingFace Dataset](https://huggingface.co/datasets/lukeslp/us-inequality-atlas)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/lucassteuber/us-inequality-atlas)
 
 ---
 
