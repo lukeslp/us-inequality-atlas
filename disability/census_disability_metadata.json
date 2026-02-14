@@ -1,0 +1,27 @@
+{
+  "source": "Census ACS 2022",
+  "table": "S1810 - Disability Characteristics",
+  "description": "Disability prevalence rates by county from Census ACS 2022",
+  "records": 3222,
+  "columns": [
+    "fips",
+    "county_name",
+    "state_fips",
+    "county_fips",
+    "total_population",
+    "disability_total",
+    "disability_rate",
+    "no_disability",
+    "one_disability",
+    "two_plus_disabilities",
+    "hearing_disability",
+    "vision_disability",
+    "cognitive_disability",
+    "ambulatory_disability",
+    "self_care_disability",
+    "independent_living_disability"
+  ],
+  "fips_column": "fips",
+  "collection_date": "2026-02-13",
+  "license": "Public Domain (US Government)"
+}
