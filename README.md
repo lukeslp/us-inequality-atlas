@@ -176,6 +176,7 @@ const data = await d3.csv("healthcare/healthcare_desert_merged.csv");
 
 - [Data Trove](https://dr.eamer.dev/datavis/data_trove/) -- full dataset catalog
 - [lukesteuber.com](https://lukesteuber.com) -- portfolio
+- [GitHub](https://github.com/lukeslp/us-inequality-atlas)
 - [HuggingFace Dataset](https://huggingface.co/datasets/lukeslp/us-inequality-atlas)
 - [Kaggle Dataset](https://www.kaggle.com/datasets/lucassteuber/us-inequality-atlas)
 
