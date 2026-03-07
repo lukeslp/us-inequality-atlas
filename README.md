@@ -31,6 +31,8 @@ size_categories:
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow)](https://huggingface.co/datasets/lukeslp/us-inequality-atlas)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF)](https://www.kaggle.com/datasets/lucassteuber/us-inequality-atlas)
 
+**Live visualization:** [https://dr.eamer.dev/datavis/inequality-atlas/](https://dr.eamer.dev/datavis/inequality-atlas/)
+
 County-level inequality data for all ~3,200 US counties, keyed on 5-digit FIPS codes. Covers food deserts, healthcare access, housing affordability, hospital infrastructure, veteran demographics, disability prevalence, income inequality (Gini coefficient), education attainment, unemployment, and poverty depth.
 
 I assembled this from Census ACS, CMS, USDA, and HRSA data for the inequality visualization series at [dr.eamer.dev/datavis](https://dr.eamer.dev/datavis/). Every file uses FIPS codes as the merge key, so you can join any combination.
